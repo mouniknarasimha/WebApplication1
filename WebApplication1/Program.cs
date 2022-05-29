@@ -34,9 +34,5 @@ namespace WebApplication1
             //sample
         }
         
-        private void sample(int n1)
-        {
-            //sample
-        }
     }
 }
