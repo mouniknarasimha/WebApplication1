@@ -22,5 +22,17 @@ namespace WebApplication1
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        private void doNothing()
+        {
+            // do nothing
+        }
+
+
+        private void sample()
+        {
+            //sample
+        }
+        
     }
 }
